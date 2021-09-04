@@ -1,0 +1,61 @@
+
+body{
+    margin: auto;
+    padding: auto;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center ;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black;
+
+}
+.sign-in-form{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    box-sizing: border-box;
+    padding: 5px ;
+    margin:10% auto 0 ;
+    text-align: center;
+}
+.sign-in-form{
+    color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+.input-box{
+    border-style:inset;
+    border-radius: 3px;
+    padding: 7px;
+    width: 80%;
+    border: 1px solid rgb(172, 163, 163);
+    outline: none;
+}
+
+button{
+    color: white;
+    border-style:inset;
+    border-radius: 3px;
+    padding: 7px;
+    width: 80%;
+    border: 1px solid rgb(199, 198, 198);
+    outline: none;
+}
+.sign-btn{
+    background-color:#abd7fa;
+}
+.fb-btn{
+    background-color: #24a0ed  ;
+}
+*{
+    box-sizing: border-box
+   }
+   
+   .seperator 
+   { 
+   width: 40%; display: inline-block; 
+   }
+   .left { 
+   float: left;
+    } 
+    .right {
+     float: right;
+      }
